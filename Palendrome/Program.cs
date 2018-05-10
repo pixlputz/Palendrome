@@ -42,11 +42,7 @@ namespace Palendrome
                     Running = false;
                 }
             }
-
-
         }
-
-
     }
 
     public static class StringExtension
@@ -69,8 +65,5 @@ namespace Palendrome
                 return false;
             }
         }
-
     }
-
-
 }
